@@ -3,8 +3,6 @@ let numerolimite = 20;
 let numeroAleatorio = gerarNumeroAleatorio();
 tentativas = 1;
 
-exibirTextoNaTela(texto)
-
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
     campo.innerHTML = texto;
