@@ -32,6 +32,10 @@ Este projeto é um jogo simples e interativo feito com **JavaScript puro (Vanill
 5. O jogo dirá se o número é maior ou menor.
 6. Continue tentando até acertar! 🎉
 
+<div align="center">
+  <img width="840" height="520" alt="image" src="https://github.com/user-attachments/assets/2f046306-79e2-4857-9198-7ce4cc6bc6b1" />
+</div>
+
 ## 🚀 Como rodar localmente
 
 ```bash
@@ -40,10 +44,6 @@ git clone git@github.com:JoseMarquesN/Jogo-Numero-Secreto.git
 
 # Acesse a pasta do projeto
 cd Jogo-Numero-Secreto
-
-# Abra o arquivo index.html no navegador
-
-<img width="1440" height="860" alt="image" src="https://github.com/user-attachments/assets/2f046306-79e2-4857-9198-7ce4cc6bc6b1" />
 
 👨‍💻 Autor
 Feito com dedicação por José Marques Neto 🧠
