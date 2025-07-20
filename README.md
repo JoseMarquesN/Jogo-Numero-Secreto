@@ -1,9 +1,9 @@
 # Jogo-Numero-Secreto
-Jogo interativo feito com JavaScript puro onde o usuário tenta adivinhar um número secreto entre 1 e 20. Com feedback visual e leitura por voz via Web Speech API, o jogo oferece dicas a cada tentativa e evita repetir números sorteados. Ideal para praticar lógica e DOM.
+Jogo interativo feito com JavaScript puro onde o usuário tenta adivinhar um número secreto entre 1 e 100. Com feedback visual e leitura por voz via Web Speech API, o jogo oferece dicas a cada tentativa e evita repetir números sorteados. Ideal para praticar lógica e DOM.
 
 # 🎯 Jogo do Número Secreto
 
-Este projeto é um jogo simples e interativo feito com **JavaScript puro (Vanilla JS)**, onde o usuário precisa adivinhar um número secreto aleatório entre 1 e 20. A cada tentativa, o jogo informa se o número chutado é maior ou menor que o número correto. O jogo também utiliza **leitura por voz** com a **Web Speech API**, tornando a experiência mais divertida e acessível.
+Este projeto é um jogo simples e interativo feito com **JavaScript puro (Vanilla JS)**, onde o usuário precisa adivinhar um número secreto aleatório entre 1 e 100. A cada tentativa, o jogo informa se o número chutado é maior ou menor que o número correto. O jogo também utiliza **leitura por voz** com a **Web Speech API**, tornando a experiência mais divertida e acessível.
 
 ## 🧪 Tecnologias utilizadas
 
@@ -27,7 +27,7 @@ Este projeto é um jogo simples e interativo feito com **JavaScript puro (Vanill
 
 1. Clone este repositório ou baixe os arquivos do projeto.
 2. Abra o arquivo `index.html` no navegador.
-3. Digite um número entre 1 e 20 no campo de chute.
+3. Digite um número entre 1 e 100 no campo de chute.
 4. Clique no botão para verificar.
 5. O jogo dirá se o número é maior ou menor.
 6. Continue tentando até acertar! 🎉
@@ -36,10 +36,10 @@ Este projeto é um jogo simples e interativo feito com **JavaScript puro (Vanill
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone git@github.com:JoseMarquesN/Jogo-Numero-Secreto.git
 
 # Acesse a pasta do projeto
-cd nome-do-repositorio
+cd Jogo-Numero-Secreto
 
 # Abra o arquivo index.html no navegador
 
